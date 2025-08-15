@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 🌟 Compre um Pixel, Marque sua História 🌟
 Cada pixel aqui é muito mais que um ponto colorido na tela. Ele é um espaço único, eterno, que carrega a sua marca, a sua mensagem ou a sua lembrança.
 
