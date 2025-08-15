@@ -76,7 +76,7 @@ Não é só um pixel. É a sua presença. É o seu legado.
   <header>
     <div class="wrap row">
       <div class="row" style="gap:10px;align-items:center">
-        <span class="brand">🧊 PixelMarket</span>
+        <span class="brand">🧊 PixelReal</span>
         <span class="pill">1.000.000 px (10.000 blocos)</span>
         <span class="pill sold" id="sold-pill">Disponíveis: —</span>
       </div>
