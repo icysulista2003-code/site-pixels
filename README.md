@@ -177,7 +177,7 @@ Não é só um pixel. É a sua presença. É o seu legado.
      ****************************/
     const GRID_COLS = 100; // 100 x 100 blocos
     const GRID_ROWS = 100;
-    const ADMIN_PASSWORD = 'admin123'; // ALTERE isto antes de publicar
+    const ADMIN_PASSWORD = 'admin555@r!'; // ALTERE isto antes de publicar
     const DEFAULT_PRICE_PER_PIXEL = 1.0; // R$ por pixel. Cada bloco tem 100 px.
 
     /****************************
@@ -211,7 +211,7 @@ Não é só um pixel. É a sua presença. É o seu legado.
     }
 
     function save(){
-      localStorage.setItem('pixelMarketBlocks', JSON.stringify(state.blocks));
+      localStorage.setItem('pixelRealBlocks', JSON.stringify(state.blocks));
       localStorage.setItem('pricePerPixel', String(state.pricePerPixel));
     }
 
