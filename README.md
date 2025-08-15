@@ -499,4 +499,3 @@ Não é só um pixel. É a sua presença. É o seu legado.
     updateAvailableCount();
   </script>
 </body>
-</html>
