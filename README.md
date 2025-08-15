@@ -1,5 +1,13 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+🌟 Compre um Pixel, Marque sua História 🌟
+Cada pixel aqui é muito mais que um ponto colorido na tela. Ele é um espaço único, eterno, que carrega a sua marca, a sua mensagem ou a sua lembrança.
+
+Ao comprar um pixel, você está:
+Deixando um pedaço seu no mundo – sua marca, seu nome ou até uma memória especial ficará visível para todos que visitarem.
+Participando de algo maior – este mural é coletivo, feito por centenas de pessoas diferentes, cada uma contando sua própria história.
+Apoiando um projeto criativo – sua compra ajuda a manter vivo este espaço, e você se torna parte de uma comunidade única.
+Seja um anúncio, uma homenagem, uma arte ou apenas um recado engraçado… seu pixel é seu espaço no mural digital que nunca será apagado.
+Não é só um pixel. É a sua presença. É o seu legado.
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
